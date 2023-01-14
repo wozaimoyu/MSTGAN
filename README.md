@@ -1,5 +1,5 @@
 # MSTGAN
-MSTGAN: A Multi-slot Conditional Generative Adversarial Network Based on Swin Transformer for Channel Estimatio
+MSTGAN: A Multi-slot Conditional Generative Adversarial Network Based on Swin Transformer for Channel Estimation
 ## Model
 
 Trained models are saved at checkpoint.	
