@@ -2,7 +2,7 @@
 MSTGAN: A Multi-slot Conditional Generative Adversarial Network Based on Swin Transformer for Channel Estimatio
 ## Model
 
-Trained models are saved at ![checkpoint](./checkpoint)		
+Trained models are saved at checkpoint.	
 ## Dataset
 ### Test
 https://drive.google.com/file/d/15XJj0bwaCSSoHjDZRaTWepOJgVmE_N2d/view?usp=share_link
